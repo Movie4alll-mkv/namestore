@@ -5,7 +5,8 @@ from plugins import web_server
 
 import pyromod.listen
 from pyrogram import Client
-from pyrogram.enums.ParseMode import ParseMode
+from pyrogram import enums
+from pyrogram import ParseMode
 import sys
 from datetime import datetime
 
